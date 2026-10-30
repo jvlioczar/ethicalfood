@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ethicalfood.biblioverse.org/sitemap.xml

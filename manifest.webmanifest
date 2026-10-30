@@ -1,0 +1,25 @@
+{
+  "name": "Ethical Food Guide",
+  "short_name": "Ethical Food",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e6",
+  "theme_color": "#f4f1e6",
+  "icons": [
+    {
+      "src": "assets/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
