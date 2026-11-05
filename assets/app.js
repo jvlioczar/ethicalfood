@@ -159,7 +159,7 @@
     const rows = view.slice(0,limit);
     $('tbody').innerHTML = rows.length ? rows.map(c => {
       const cats = c.p.slice(0,2).map(p => `<span class="cat" style="--dc:var(--c-${COLORS[p]||'blend'})"><i class="dot"></i>${esc(label(p))}</span>`).join('');
-      return `<tr data-i="${c._i}"><td><button type="button" class="c-name">${esc(c.n)}${c.s==='j'?`<span class="review">${S.review}</span>`:''}</button>${c.d?`<span class="c-desc">${esc(c.d)}</span>`:''}</td><td class="col-cat"><span class="cats">${cats}</span></td><td class="col-focus">${esc(c.f.slice(0,2).map(label).join(', '))}</td><td>${esc(country(c.c))}</td><td class="col-year num-c">${c.y||''}</td></tr>`;
+      return `<tr data-i="${c._i}"><td><button type="button" class="c-name">${esc(c.n)}${c.s==='j'&&!c.rv?`<span class="review">${S.review}</span>`:''}</button>${c.d?`<span class="c-desc">${esc(c.d)}</span>`:''}</td><td class="col-cat"><span class="cats">${cats}</span></td><td class="col-focus">${esc(c.f.slice(0,2).map(label).join(', '))}</td><td>${esc(country(c.c))}</td><td class="col-year num-c">${c.y||''}</td></tr>`;
     }).join('') : `<tr><td colspan="5" class="empty">${S.none}</td></tr>`;
     $('count').textContent = `${S.showing} ${fmt(rows.length)} ${S.of} ${fmt(view.length)}`;
     $('more').hidden = limit >= view.length;
@@ -172,7 +172,7 @@
     const place = [c.city,c.st,country(c.c)].filter(Boolean).join(', ');
     const d = $('drawer');
     d.innerHTML = `<button type="button" class="x" aria-label="${S.close}">×</button><h2 id="drawerh">${esc(c.n)}</h2>${c.d?`<p>${esc(c.d)}</p>`:''}
-      ${c.s==='j'?`<div class="flag">${S.reviewNote}</div>`:''}${c.t==='D'?`<div class="flag">${S.diversified}</div>`:''}
+      ${c.s==='j'&&!c.rv?`<div class="flag">${S.reviewNote}</div>`:''}${c.t==='D'?`<div class="flag">${S.diversified}</div>`:''}
       <dl>${row(S.category,list(label,c.p))}${row(S.focus,list(label,c.f))}${row(S.hq,esc(place))}${row(S.founded,c.y)}${row(S.founders,esc(c.fd))}${row(S.alt,esc(c.a))}${row(S.market,list(v=>v,c.m))}${row(S.tech,list(label,c.k))}${row(S.product,list(label,c.pt))}${row(S.animal,list(label,c.an))}${row(S.ingredient,list(label,c.i))}${row(S.region,list(label,c.r))}${row(S.source,c.s==='g'?S.gfi:c.s==='j'?S.sheet:'')}</dl>
       <div class="links">${/^https?:/.test(c.u||'')?`<a href="${esc(c.u)}" target="_blank" rel="noopener">${S.site} ↗</a>`:''}${/^https?:/.test(c.li||'')?`<a href="${esc(c.li)}" target="_blank" rel="noopener">LinkedIn ↗</a>`:''}</div>`;
     d.hidden = false; $('scrim').hidden = false; d.focus(); d.scrollTop = 0;
