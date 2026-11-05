@@ -195,4 +195,13 @@ main{background:var(--bg);padding-top:16px;overflow:clip}
   .map svg{max-height:230px}
   .plain td{min-width:130px}
 }
+.plist{padding-left:20px;max-width:68ch;font-size:16.5px}.plist li{margin-bottom:8px}
+@media print{
+  body,main{background:#fff;color:#000}
+  .bvbar,.top,.filters,.map,.toolbar,.chips,.more,.tabs,.filter-q,.stripes,.drawer,.scrim,.skip,.go{display:none!important}
+  .hero-card,.phead-card,.kpi,.item,.reason,.book,.term,.note,.tablewrap,.timeline li,.rsec h2{background:#fff!important;color:#000;border:1px solid #bbb;break-inside:avoid}
+  .dir{display:block}.wrap{max-width:none;padding:0}
+  .grid,.rgrid,.terms{display:block}.item,.reason,.term{margin-bottom:6px}
+  .prose a[href^="http"]::after,.note a[href^="http"]::after{content:" (" attr(href) ")";font-size:11px;word-break:break-all}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
