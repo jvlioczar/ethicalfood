@@ -1,0 +1,33 @@
+# Ethical Food Guide
+
+> A bilingual directory of 2,277 alternative protein companies in 71 countries (plant-based, cultivated and fermentation), with the organizations, reasons, books and glossary of food made without animal suffering.
+
+The Ethical Food Guide (Guia de Alimentos Éticos in Portuguese) is a free, independent project, part of BiblioVerse. English lives at the root and Brazilian Portuguese at /pt/. Company data comes from the Good Food Institute's public company database and the author's own spreadsheet; spreadsheet rows are reviewed one by one and the ones not yet confirmed are marked "under review". Being listed is not an endorsement, and some companies are diversified groups that also sell animal products. The directory is built with JavaScript, so its full content is also published below as Markdown and JSON.
+
+## Full content
+
+- [Full guide in English](https://ethicalfood.biblioverse.org/llms-full.txt): every company, organization, reason, book and glossary term, in Markdown
+- [Guia completo em português](https://ethicalfood.biblioverse.org/pt/llms-full.txt): o mesmo conteúdo em português
+- [Company data (JSON)](https://ethicalfood.biblioverse.org/data/companies.json): one object per company. Fields: `n` name, `a` other names, `d` description (English), `p` protein categories, `f` focus, `c` HQ country (ISO code), `city`, `st` US state, `y` year founded, `fd` founders, `u` website, `li` LinkedIn, `t` company type (S specialized in alternative proteins, D diversified), `m` B2B or B2C, `k` technology focus, `pt` product types, `an` animal products imitated, `i` ingredients, `r` operating regions, `s` source (g GFI database, j project spreadsheet, m added by hand), `rv` 1 when a spreadsheet row was confirmed
+
+## Pages
+
+- [Ethical Food Guide: the alternative protein directory](https://ethicalfood.biblioverse.org/): A directory and map of 2,277 alternative protein companies in 71 countries: plant-based and cultivated meat, fermentation and more.
+- [Alternative protein organizations](https://ethicalfood.biblioverse.org/organizations.html): Nonprofits, research centers, trade bodies and universities advancing alternative proteins and cellular agriculture worldwide, such as GFI and New Harvest.
+- [Reasons to consider cellular agriculture](https://ethicalfood.biblioverse.org/reasons.html): Why consider cellular agriculture: potential benefits for health, land, water, climate, animals, people and the economy, with caveats about the projections.
+- [Alternative protein books, reports and articles](https://ethicalfood.biblioverse.org/books.html): Essential reading on alternative proteins and cultivated meat: books, textbooks, reports and the most cited scientific studies on the subject.
+- [Alternative protein glossary](https://ethicalfood.biblioverse.org/glossary.html): What cultivated meat, precision fermentation, cellular agriculture and other industry terms mean, in English and Portuguese, and which words to avoid.
+
+## Em português
+
+- [Guia de Alimentos Éticos: o diretório das proteínas alternativas](https://ethicalfood.biblioverse.org/pt/): Diretório e mapa de 2.277 empresas de proteínas alternativas em 71 países: carne vegetal, carne cultivada, fermentação e mais.
+- [Organizações de proteínas alternativas](https://ethicalfood.biblioverse.org/pt/organizacoes.html): ONGs, centros de pesquisa, associações e universidades que impulsionam as proteínas alternativas e a agricultura celular no mundo, como GFI e New Harvest.
+- [Razões para considerar a agricultura celular](https://ethicalfood.biblioverse.org/pt/razoes.html): Por que considerar a agricultura celular: potenciais benefícios para saúde, terra, água, clima, animais, pessoas e economia, com ressalvas sobre as projeções.
+- [Livros e artigos sobre proteínas alternativas](https://ethicalfood.biblioverse.org/pt/livros.html): Leituras essenciais sobre proteínas alternativas e carne cultivada: livros, livros-texto, relatórios e os estudos científicos mais citados sobre o tema.
+- [Glossário de proteínas alternativas](https://ethicalfood.biblioverse.org/pt/glossario.html): O que significam carne cultivada, fermentação de precisão, agricultura celular e outros termos do setor, em português e inglês, e quais palavras evitar.
+
+## Optional
+
+- [About the project](https://ethicalfood.biblioverse.org/about.html): Why the Ethical Food Guide exists, where the directory data comes from and who its author is, Julio Cesar Prava.
+- [Sobre o projeto](https://ethicalfood.biblioverse.org/pt/sobre.html): Por que o Guia de Alimentos Éticos existe, de onde vêm os dados do diretório e quem é seu autor, Julio Cesar Prava.
+- [Privacy policy](https://ethicalfood.biblioverse.org/privacy.html): How the Ethical Food Guide handles data: no cookies, no ads and no visitor analytics.
