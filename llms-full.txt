@@ -1,6 +1,6 @@
 # Ethical Food Guide: full content
 
-Everything in the guide at https://ethicalfood.biblioverse.org/ as plain Markdown. Content updated 2026-11-14.
+Everything in the guide at https://ethicalfood.biblioverse.org/ as plain Markdown. Content updated 2026-11-19.
 
 Being listed is not an endorsement: companies are not assessed one by one, and some are diversified groups that also sell animal products.
 

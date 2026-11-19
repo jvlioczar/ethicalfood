@@ -175,7 +175,7 @@ main{background:var(--bg);padding-top:16px;overflow:clip}
 
 @media (max-width:1100px){.col-focus{display:none}}
 @media (max-width:900px){
-  .wrap{padding:0 10px}
+  .wrap{padding-left:10px;padding-right:10px}
   .top-in{flex-wrap:wrap;gap:6px 12px;padding:12px 10px}.brand{flex:1}.nav{order:3;flex:0 0 100%}
   .stripes{display:none}
   .hero-txt,.phead-card{padding:24px 20px 26px}

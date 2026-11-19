@@ -1,6 +1,6 @@
 # Guia de Alimentos Éticos: conteúdo completo
 
-Todo o conteúdo do guia em https://ethicalfood.biblioverse.org/pt/ em Markdown simples. Conteúdo atualizado em 2026-11-14.
+Todo o conteúdo do guia em https://ethicalfood.biblioverse.org/pt/ em Markdown simples. Conteúdo atualizado em 2026-11-19.
 
 Estar na lista não é um selo: as empresas não são avaliadas uma a uma, e algumas são grupos diversificados que também vendem produtos de origem animal.
 
