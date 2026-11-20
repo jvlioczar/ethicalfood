@@ -1,6 +1,6 @@
 # Guia de Alimentos Éticos: conteúdo completo
 
-Todo o conteúdo do guia em https://ethicalfood.biblioverse.org/pt/ em Markdown simples. Conteúdo atualizado em 2026-11-19.
+Todo o conteúdo do guia em https://ethicalfood.biblioverse.org/pt/ em Markdown simples. Conteúdo atualizado em 2026-11-20.
 
 Estar na lista não é um selo: as empresas não são avaliadas uma a uma, e algumas são grupos diversificados que também vendem produtos de origem animal.
 
@@ -71,6 +71,39 @@ https://ethicalfood.biblioverse.org/pt/organizacoes.html
 - **Worcester Polytechnic Institute** (Estados Unidos, 1865): Instituto dos EUA listado na planilha do projeto por pesquisa em bioengenharia. <https://www.wpi.edu>
 - **Kent State University** (Estados Unidos, 1910): Universidade de pesquisa dos EUA listada na planilha do projeto. <https://www.kent.edu>
 - **CEFET-MG** (Brasil, 1909): Centro federal brasileiro de educação tecnológica em Minas Gerais. <https://www.cefetmg.br>
+
+## Linha do tempo
+
+https://ethicalfood.biblioverse.org/pt/linha-do-tempo.html
+
+- **1931** (Ciência): **Churchill imagina a carne cultivada**. No ensaio “Fifty Years Hence”, Winston Churchill prevê que as pessoas cultivariam peito e asa de frango separadamente, em vez de criar a ave inteira. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **1985** (Negócios): **Quorn chega às lojas**. A micoproteína, feita pela fermentação de um fungo, começa a ser vendida no Reino Unido com a marca Quorn, uma das primeiras alternativas à carne vendidas em escala. <https://en.wikipedia.org/wiki/Quorn>
+- **1999** (Ciência): **Primeira patente de carne cultivada**. O pesquisador holandês Willem van Eelen obtém uma patente para produzir carne a partir de células, depois de décadas defendendo a ideia. <https://en.wikipedia.org/wiki/Willem_van_Eelen>
+- **2002** (Ciência): **Tecido de peixe cultivado**. Uma equipe financiada pela NASA, liderada por Morris Benjaminson, cultiva tecido muscular de peixe-dourado, estudando comida para longas missões espaciais. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **2004** (Ciência): **Nasce a New Harvest**. Jason Matheny funda a New Harvest, a primeira organização sem fins lucrativos dedicada à pesquisa de carne cultivada. <https://en.wikipedia.org/wiki/New_Harvest>
+- **2009** (Negócios): **Fundação da Beyond Meat**. Ethan Brown funda a Beyond Meat na Califórnia. Dois anos depois, Patrick Brown funda a Impossible Foods. <https://en.wikipedia.org/wiki/Beyond_Meat>
+- **2013-08** (Ciência): **O primeiro hambúrguer cultivado**. Em Londres, Mark Post apresenta o primeiro hambúrguer feito de células bovinas cultivadas, provado num evento transmitido ao vivo. Custou cerca de 250 mil euros e foi financiado por Sergey Brin. <https://en.wikipedia.org/wiki/Mark_Post>
+- **2014** (Negócios): **Fundação da Perfect Day**. Nasce, com o nome Muufri, a empresa que venderia o primeiro sorvete feito com proteína do soro do leite produzida por fermentação de precisão, sem vacas. <https://en.wikipedia.org/wiki/Perfect_Day_(company)>
+- **2015** (Negócios): **Fundação da Memphis Meats**. Nasce uma das primeiras startups de carne cultivada dos Estados Unidos, que depois passa a se chamar Upside Foods. <https://en.wikipedia.org/wiki/Upside_Foods>
+- **2016** (Ciência): **Nasce o Good Food Institute**. Bruce Friedrich funda o GFI, que se torna a principal organização global sem fins lucrativos de proteínas alternativas, com braços depois no Brasil, na Ásia, na Europa, na Índia e em Israel. <https://en.wikipedia.org/wiki/The_Good_Food_Institute>
+- **2016-07** (Negócios): **Estreia o Impossible Burger**. Um hambúrguer vegetal que “sangra”, graças ao heme de soja produzido por fermentação, entra no cardápio do Momofuku Nishi, em Nova York. <https://en.wikipedia.org/wiki/Impossible_Burger>
+- **2019-05** (Negócios): **Beyond Meat abre capital**. A estreia da Beyond Meat na bolsa é uma das mais fortes do ano, com alta de cerca de 160% no primeiro dia de negociação. <https://en.wikipedia.org/wiki/Beyond_Meat>
+- **2019-08** (Negócios): **Impossible Whopper em todo o país**. Depois de um teste em St. Louis, o Burger King coloca o Impossible Whopper no cardápio em todos os Estados Unidos. <https://en.wikipedia.org/wiki/Impossible_Burger>
+- **2019** (Negócios): **Hambúrguer vegetal decola no Brasil**. A Fazenda Futuro lança o Futuro Burger e a Seara, da JBS, lança a linha Incrível, levando a carne vegetal aos supermercados brasileiros. <https://www.fazendafuturo.io>
+- **2020-12** (Aprovações e regras): **Singapura aprova a carne cultivada**. Singapura se torna o primeiro país a aprovar a venda de carne cultivada: o frango da Eat Just, servido no restaurante 1880 no mesmo mês. <https://en.wikipedia.org/wiki/Eat_Just>
+- **2021-05** (Negócios): **Oatly abre capital**. A fabricante sueca de leite de aveia estreia na Nasdaq, numa das maiores ofertas de ações de uma empresa de alimentos vegetais. <https://en.wikipedia.org/wiki/Oatly>
+- **2022-11** (Aprovações e regras): **Primeira liberação nos EUA**. A FDA, agência de alimentos dos Estados Unidos, conclui sua primeira consulta de segurança sobre carne cultivada, para o frango da Upside Foods. <https://en.wikipedia.org/wiki/Upside_Foods>
+- **2023-06** (Aprovações e regras): **Frango cultivado à venda nos EUA**. O Departamento de Agricultura dos EUA aprova a Upside Foods e a Good Meat, e o frango cultivado passa a ser servido em restaurantes de San Francisco e Washington. <https://en.wikipedia.org/wiki/Upside_Foods>
+- **2023-11** (Proibições): **Itália proíbe a carne cultivada**. O parlamento italiano aprova uma lei que proíbe a produção e a venda de carne cultivada, o primeiro país a fazer isso. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **2023-12** (Aprovações e regras): **Brasil atualiza a regra de novos alimentos**. A Anvisa publica a RDC 839/2023, que atualiza a aprovação de novos alimentos e passa a incluir produtos obtidos por fermentação ou a partir de cultivo de células. <https://www.soutocorrea.com.br/en/client-alerts/anvisa-approves-regulatory-framework-for-novel-foods-and-novel-ingredients/>
+- **2024-01** (Aprovações e regras): **Israel aprova a carne bovina cultivada**. A Aleph Farms anuncia a primeira aprovação do mundo para carne bovina cultivada, concedida pelo Ministério da Saúde de Israel. <https://www.khlaw.com/insights/israel-grants-worlds-first-regulatory-approval-cultivated-beef>
+- **2024-05** (Proibições): **Flórida e Alabama proíbem a carne cultivada**. Dois estados americanos proíbem a venda de carne cultivada. Outros estados seguem nos meses seguintes. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **2024-07** (Aprovações e regras): **Primeira ração com carne cultivada**. O Reino Unido libera o frango cultivado da Meatly para ração de animais, a primeira aprovação do tipo no mundo e a primeira de carne cultivada na Europa. <https://www.foodnavigator.com/Article/2024/07/17/Meatly-gets-UK-approval-for-use-of-cultivated-meat-in-pet-food/>
+- **2024-07** (Aprovações e regras): **Primeiro pedido na União Europeia**. A empresa francesa Gourmey faz o primeiro pedido para vender carne cultivada na União Europeia, para um foie gras de pato. <https://natlawreview.com/article/first-eu-application-submitted-lab-grown-meat-product-novel-food>
+- **2025-02** (Negócios): **Carne cultivada chega ao pet shop**. Petiscos para cães feitos com o frango cultivado da Meatly começam a ser vendidos numa loja da Pets at Home em Londres, a primeira venda de ração com carne cultivada no varejo. <https://www.foodmanufacture.co.uk/Article/2025/02/06/meatly-and-the-pack-launch-pet-treats-made-from-lab-grown-meat-into-pets-at-home>
+- **2025** (Aprovações e regras): **EUA liberam porco e salmão cultivados**. A FDA libera a gordura suína cultivada da Mission Barns, o primeiro porco cultivado aprovado no mundo, e o salmão cultivado da Wildtype. <https://agfundernews.com/breaking-mission-barns-secures-fda-approval-for-cultivated-fat-gears-up-for-us-launch>
+- **2025-06** (Aprovações e regras): **Austrália e Nova Zelândia aprovam codorna cultivada**. Depois de dois anos de análise, a codorna cultivada da Vow é aprovada e chega a restaurantes de Melbourne e Sydney. <https://www.foodmanufacture.co.uk/Article/2025/06/18/cultivated-meat-approved-for-sale-in-australia>
+- **2025-06** (Proibições): **Texas proíbe a carne cultivada por dois anos**. O Texas, maior produtor de carne bovina dos EUA, se torna o sétimo estado a proibir a carne cultivada. Upside Foods e Wildtype processam o estado em setembro. <https://www.texastribune.org/2025/09/03/texas-cultivated-meat-lab-grown-ban-lawsuit/>
 
 ## Razões para considerar a agricultura celular
 

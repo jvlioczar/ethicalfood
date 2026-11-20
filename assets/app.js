@@ -10,7 +10,7 @@
     const q = root.querySelector('[data-filter-q]'), tabs = [...root.querySelectorAll('[data-filter-kind]')], none = root.querySelector('.none');
     const grouped = root.hasAttribute('data-filter-group');
     const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
-    const items = [...root.querySelectorAll('.item,.reason,.book,.term')].map(el => ({el, text: norm(el.textContent)}));
+    const items = [...root.querySelectorAll('.item,.reason,.book,.term,.event')].map(el => ({el, text: norm(el.textContent)}));
     let kind = '';
     function apply(){
       const term = norm(q.value.trim()); let shown = 0;
@@ -19,6 +19,7 @@
         const on = (!kind || k === kind) && (!term || i.text.includes(term));
         i.el.hidden = !on; if(on) shown++;
       });
+      if(root.hasAttribute('data-filter-year')) root.querySelectorAll('.tyear').forEach(s => { s.hidden = !s.querySelector('.event:not([hidden])'); });
       if(grouped) root.querySelectorAll('.rsec').forEach(s => { s.hidden = !s.querySelector('.reason:not([hidden]),.book:not([hidden]),.term:not([hidden])'); });
       if(none) none.hidden = shown > 0;
     }

@@ -1,6 +1,6 @@
 # Ethical Food Guide: full content
 
-Everything in the guide at https://ethicalfood.biblioverse.org/ as plain Markdown. Content updated 2026-11-19.
+Everything in the guide at https://ethicalfood.biblioverse.org/ as plain Markdown. Content updated 2026-11-20.
 
 Being listed is not an endorsement: companies are not assessed one by one, and some are diversified groups that also sell animal products.
 
@@ -71,6 +71,39 @@ https://ethicalfood.biblioverse.org/organizations.html
 - **Worcester Polytechnic Institute** (United States, 1865): US institute listed in the project spreadsheet for bioengineering research. <https://www.wpi.edu>
 - **Kent State University** (United States, 1910): US research university listed in the project spreadsheet. <https://www.kent.edu>
 - **CEFET-MG** (Brazil, 1909): Brazilian federal technology education center in Minas Gerais. <https://www.cefetmg.br>
+
+## Timeline
+
+https://ethicalfood.biblioverse.org/timeline.html
+
+- **1931** (Science): **Churchill imagines growing meat**. In the essay “Fifty Years Hence”, Winston Churchill predicts that people will grow chicken breasts and wings separately, instead of raising whole birds. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **1985** (Business): **Quorn reaches shops**. Mycoprotein made by fermenting a fungus goes on sale in the United Kingdom under the Quorn brand, one of the first meat alternatives sold at scale. <https://en.wikipedia.org/wiki/Quorn>
+- **1999** (Science): **First patent for cultured meat**. Dutch researcher Willem van Eelen obtains a patent for producing meat from cells, after decades promoting the idea. <https://en.wikipedia.org/wiki/Willem_van_Eelen>
+- **2002** (Science): **Fish tissue grown in the lab**. A NASA-funded team led by Morris Benjaminson grows goldfish muscle tissue, studying food for long space missions. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **2004** (Science): **New Harvest is founded**. Jason Matheny founds New Harvest, the first nonprofit dedicated to cultured meat research. <https://en.wikipedia.org/wiki/New_Harvest>
+- **2009** (Business): **Beyond Meat is founded**. Ethan Brown founds Beyond Meat in California. Two years later, Patrick Brown founds Impossible Foods. <https://en.wikipedia.org/wiki/Beyond_Meat>
+- **2013-08** (Science): **The first cultivated burger**. In London, Mark Post presents the first hamburger made from cultivated beef cells, tasted at a press event streamed live. It cost about €250,000 and was funded by Sergey Brin. <https://en.wikipedia.org/wiki/Mark_Post>
+- **2014** (Business): **Perfect Day is founded**. The company that would sell the first ice cream made with whey protein produced by precision fermentation, without cows, is founded as Muufri. <https://en.wikipedia.org/wiki/Perfect_Day_(company)>
+- **2015** (Business): **Memphis Meats is founded**. One of the first cultivated meat startups in the United States is founded. It later becomes Upside Foods. <https://en.wikipedia.org/wiki/Upside_Foods>
+- **2016** (Science): **The Good Food Institute is founded**. Bruce Friedrich founds GFI, which becomes the main global nonprofit for alternative proteins, with later branches in Brazil, Asia, Europe, India and Israel. <https://en.wikipedia.org/wiki/The_Good_Food_Institute>
+- **2016-07** (Business): **The Impossible Burger debuts**. A plant-based burger that “bleeds”, thanks to soy heme made by fermentation, goes on the menu at Momofuku Nishi in New York. <https://en.wikipedia.org/wiki/Impossible_Burger>
+- **2019-05** (Business): **Beyond Meat goes public**. Beyond Meat’s stock opening is one of the strongest of the year, rising about 160% on the first day of trading. <https://en.wikipedia.org/wiki/Beyond_Meat>
+- **2019-08** (Business): **The Impossible Whopper goes national**. After a test in St. Louis, Burger King puts the Impossible Whopper on the menu across the United States. <https://en.wikipedia.org/wiki/Impossible_Burger>
+- **2019** (Business): **Plant-based burgers take off in Brazil**. Fazenda Futuro launches its Futuro Burger and Seara, from JBS, launches the Incrível line, bringing plant-based meat to Brazilian supermarkets. <https://www.fazendafuturo.io>
+- **2020-12** (Approvals and rules): **Singapore approves cultivated meat**. Singapore becomes the first country to approve the sale of cultivated meat: Eat Just’s chicken, served at the restaurant 1880 that same month. <https://en.wikipedia.org/wiki/Eat_Just>
+- **2021-05** (Business): **Oatly goes public**. The Swedish oat milk maker lists on the Nasdaq, one of the largest public offerings of a plant-based food company. <https://en.wikipedia.org/wiki/Oatly>
+- **2022-11** (Approvals and rules): **First US safety clearance**. The US Food and Drug Administration completes its first safety consultation on cultivated meat, for Upside Foods’ chicken. <https://en.wikipedia.org/wiki/Upside_Foods>
+- **2023-06** (Approvals and rules): **Cultivated chicken on sale in the US**. The US Department of Agriculture approves Upside Foods and Good Meat, and their cultivated chicken is served in restaurants in San Francisco and Washington. <https://en.wikipedia.org/wiki/Upside_Foods>
+- **2023-11** (Bans): **Italy bans cultivated meat**. Italy’s parliament approves a law banning the production and sale of cultivated meat, the first country to do so. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **2023-12** (Approvals and rules): **Brazil updates its novel food rules**. Anvisa publishes RDC 839/2023, which updates how new foods are approved and covers products made by fermentation or from cultured cells. <https://www.soutocorrea.com.br/en/client-alerts/anvisa-approves-regulatory-framework-for-novel-foods-and-novel-ingredients/>
+- **2024-01** (Approvals and rules): **Israel approves cultivated beef**. Aleph Farms announces the world’s first approval for cultivated beef, from Israel’s Ministry of Health. <https://www.khlaw.com/insights/israel-grants-worlds-first-regulatory-approval-cultivated-beef>
+- **2024-05** (Bans): **Florida and Alabama ban cultivated meat**. Two US states ban the sale of cultivated meat. Other states follow in the next months. <https://en.wikipedia.org/wiki/Cultured_meat>
+- **2024-07** (Approvals and rules): **First approval of cultivated pet food**. The United Kingdom clears Meatly’s cultivated chicken for pet food, the first approval of its kind in the world and the first for cultivated meat in Europe. <https://www.foodnavigator.com/Article/2024/07/17/Meatly-gets-UK-approval-for-use-of-cultivated-meat-in-pet-food/>
+- **2024-07** (Approvals and rules): **First request in the European Union**. French company Gourmey files the first application to sell cultivated meat in the European Union, for duck foie gras. <https://natlawreview.com/article/first-eu-application-submitted-lab-grown-meat-product-novel-food>
+- **2025-02** (Business): **Cultivated meat reaches a pet shop**. Dog treats made with Meatly’s cultivated chicken go on sale at a Pets at Home store in London, the first retail sale of cultivated pet food. <https://www.foodmanufacture.co.uk/Article/2025/02/06/meatly-and-the-pack-launch-pet-treats-made-from-lab-grown-meat-into-pets-at-home>
+- **2025** (Approvals and rules): **US clears cultivated pork and salmon**. The FDA clears Mission Barns’ cultivated pork fat, the first cultivated pork approved anywhere, and Wildtype’s cultivated salmon. <https://agfundernews.com/breaking-mission-barns-secures-fda-approval-for-cultivated-fat-gears-up-for-us-launch>
+- **2025-06** (Approvals and rules): **Australia and New Zealand approve cultivated quail**. After a two-year review, Vow’s cultivated quail is approved and heads to restaurants in Melbourne and Sydney. <https://www.foodmanufacture.co.uk/Article/2025/06/18/cultivated-meat-approved-for-sale-in-australia>
+- **2025-06** (Bans): **Texas bans cultivated meat for two years**. Texas, the largest beef-producing state in the US, becomes the seventh state to ban cultivated meat. Upside Foods and Wildtype sue the state in September. <https://www.texastribune.org/2025/09/03/texas-cultivated-meat-lab-grown-ban-lawsuit/>
 
 ## Reasons to consider cellular agriculture
 
